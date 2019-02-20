@@ -1,6 +1,6 @@
-#this is a large Heading
+# This is a large heading
 
-##this is a smaller heading
+## This is a smaller heading
 
 And as **imaginations** bodies forth,
 The forms of things *unkown*, the poet´s pen,
