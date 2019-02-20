@@ -1,29 +1,26 @@
-# This is a large heading
+# David Tavares
 
-## This is a smaller heading
+### Geography
 
-And as **imaginations** bodies forth,
-The forms of things *unkown*, the poet´s pen,
-Turn´s them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+I live in the city of Belém, in the state of Pará, in Brazil.
 
--this is
--an unordered
--list
+### Reading
 
-1. This
-2. an ordered
-3. list
+Three of my favorite books are
 
-Here is 'some code' in the middle of a sentence.
+- *1984* by George Orwell
+- *Crime and Punishment* by Fiódor Dostoiévsky
+- *The Lord of the Rings* by J.R.R. Tolkien
 
-This is
-a block
-of code
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favorite meals
 
-![This is as image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Lasagna
+2. Stroggonoff
+3. Feijoada
 
-nano README.md
+### Contact
+
+You can´t contact me, I´m a ghost
 
